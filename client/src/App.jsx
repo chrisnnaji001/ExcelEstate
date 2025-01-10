@@ -3,8 +3,9 @@ import Home from './Pages/Home';
 import SignIn from './pages/SignIn';
 import Signup from './Pages/Signup';
 import About from './Pages/About';
-import Profile from './Pages/Profile'
-import Header from "./component/Header"
+import Profile from './Pages/Profile';
+import Header from './component/Header';
+
 
 export default function App() {
   return (
